@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThatOneChicken
+- 👀 I’m interested in ... Thing
+- 🌱 I’m currently learning ... Lua
+- 📫 How to reach me ... ya don't
